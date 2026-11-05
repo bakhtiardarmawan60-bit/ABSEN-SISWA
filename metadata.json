@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Presensi QR SDN Pasrujambe 01",
+  "description": "Aplikasi presensi murid berbasis QR Code dengan dashboard admin laporan kehadiran real-time SDN Pasrujambe 01 Kab. Lumajang.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
